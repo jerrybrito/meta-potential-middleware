@@ -1,0 +1,2 @@
+# Requires: quasi-perhaps
+# (Not available on PyPI)
